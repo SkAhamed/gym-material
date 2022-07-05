@@ -1,0 +1,43 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.purple {
+    color: #ca2ca3;
+}
+
+.red {
+    color: #ec0909;
+}
+
+section {
+    display: flex;
+}
+
+.side-by {
+    width: 100%;
+    padding: 10%;
+}
+
+.side-by img {
+    width: 90%;
+}
+
+.you-tube {
+    color: #0fe4eb;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 5cm;
+    font-weight: 900;
+}
+
+.top-left {
+    background-image: url(images/my-bg.png);
+    background-repeat: no-repeat;
+}
